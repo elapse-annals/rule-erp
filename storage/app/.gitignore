@@ -1,0 +1,4 @@
+*
+!public/
+!framework_temp/
+!.gitignore
